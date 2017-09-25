@@ -371,7 +371,7 @@ p124
 I1
 sVOaxaca
 p125
-I4
+I6
 sVTierra Firme
 p126
 I1
@@ -2894,7 +2894,7 @@ p965
 I1
 sVArgentina
 p966
-I300
+I301
 sS'Defectuoso'
 p967
 I1
@@ -3045,236 +3045,245 @@ I1
 sS'S\xc3\xa3o Paulo - Brasil'
 p1016
 I1
-sS'Liberal Reactivo'
+sS'Patched plains - Popstar'
 p1017
 I1
-sS'La flor m\xc3\xa1s bella de cocoyoc'
+sS'Liberal Reactivo'
 p1018
 I1
-sS'bs as argentina'
+sS'La flor m\xc3\xa1s bella de cocoyoc'
 p1019
 I1
-sS'#BlackLivesMatter'
+sS'bs as argentina'
 p1020
 I1
-sS'Japan'
+sS'#BlackLivesMatter'
 p1021
+I1
+sS'Japan'
+p1022
 I8
 sVArcadia Bay
-p1022
-I1
-sS'struggle Avenue'
 p1023
 I1
-sS'retweets not an endorsement'
+sS'struggle Avenue'
 p1024
 I1
-sVNo
+sS'retweets not an endorsement'
 p1025
 I1
-sS'Somewhere'
+sVNo
 p1026
-I4
-sVCABA
+I1
+sS'Somewhere'
 p1027
 I4
-sS'Vigo Espa\xc3\xb1a'
+sVCABA
 p1028
+I4
+sS'Vigo Espa\xc3\xb1a'
+p1029
 I1
 sS'Kazajst\xc3\xa1n'
-p1029
+p1030
 I2
 sVCABA  San Martín
-p1030
-I1
-sVIgnominiosos s
 p1031
 I1
-sS'San Nicol\xc3\xa1s de los Garza'
+sVIgnominiosos s
 p1032
 I1
-sVAsturias
+sS'San Nicol\xc3\xa1s de los Garza'
 p1033
 I1
-sS'Rotterdam'
+sVAsturias
 p1034
 I1
-sS'Tu coraz\xc3\xb3n.'
+sS'Rotterdam'
 p1035
 I1
-sVDel Campillo Córdoba
+sS'Tu coraz\xc3\xb3n.'
 p1036
 I1
-sVNL
+sVDel Campillo Córdoba
 p1037
+I1
+sVNL
+p1038
 I3
 sS'NM'
-p1038
+p1039
 I2
 sS'Not too far..'
-p1039
+p1040
 I1
 sVNY
-p1040
-I4
-sS'CAEN / St ETIENNE'
 p1041
+I5
+sS'CAEN / St ETIENNE'
+p1042
 I1
 sVChile
-p1042
+p1043
 I53
 sS'Monte Puerco'
-p1043
-I1
-sVBradford
 p1044
 I1
-sVNoruega
+sVBradford
 p1045
+I1
+sVNoruega
+p1046
 I3
 sS'ec'
-p1046
-I1
-sS'Earthly Hell (aka Alabama)'
 p1047
 I1
-sS'Temperley\xe2\x9c\x85'
+sS'Earthly Hell (aka Alabama)'
 p1048
 I1
-sS'Ya tu zabeh'
+sS'Temperley\xe2\x9c\x85'
 p1049
 I1
-sS'Donostia-San Sebasti\xc3\xa1n'
+sS'Ya tu zabeh'
 p1050
 I1
-sS'june 17th'
+sS'Donostia-San Sebasti\xc3\xa1n'
 p1051
+I1
+sS'june 17th'
+p1052
 I2
 sS'Minas Tirith'
-p1052
-I1
-sS'Vincit Omnia Veritas'
 p1053
 I1
-sS'Ronkonkoma is a hamlet'
+sS'Vincit Omnia Veritas'
 p1054
 I1
-sVSo PauloSP
+sS'Ronkonkoma is a hamlet'
 p1055
 I1
-sVMorelod
+sVSo PauloSP
 p1056
 I1
-sS'latinoamericano y caribe\xc3\xb1o'
+sVMorelod
 p1057
 I1
-sS'Kappa Kappa Tau'
+sS'latinoamericano y caribe\xc3\xb1o'
 p1058
 I1
-sS'en mi cama esperando por jorge'
+sS'Kappa Kappa Tau'
 p1059
 I1
-sVOklahoma city area
+sS'en mi cama esperando por jorge'
 p1060
 I1
-sVBuenos AiresArgentina
+sVOklahoma city area
 p1061
 I1
-sS'34\xc2\xb031\xe2\x80\xb258\xe2\x80\xb3N 69\xc2\xb009\xe2\x80\xb257\xe2\x80\xb3E'
+sVBuenos AiresArgentina
 p1062
 I1
-sS'Morelos'
+sS'34\xc2\xb031\xe2\x80\xb258\xe2\x80\xb3N 69\xc2\xb009\xe2\x80\xb257\xe2\x80\xb3E'
 p1063
 I1
-sVChile  Latinoamérica
+sS'Morelos'
 p1064
 I1
-sVUSA
+sVChile  Latinoamérica
 p1065
+I1
+sVUSA
+p1066
 I34
 sS'Lima - Per\xc3\xba'
-p1066
+p1067
 I5
 sS'GDL || CDMX'
-p1067
-I1
-sVSpringfield
 p1068
 I1
-sVSan Antonio  Santiago
+sVSpringfield
 p1069
 I1
-sVMéxico city and Colima
+sVSan Antonio  Santiago
 p1070
+I1
+sVMéxico city and Colima
+p1071
 I2
 sS'En Sagitario-Carina Via L\xc3\xa1ctea'
-p1071
-I1
-sS'Telurica y Magnetica'
 p1072
 I1
-sVsince 
+sS'Telurica y Magnetica'
 p1073
 I1
-sS'Ituzaing\xc3\xb3 Corrientes'
+sVsince 
 p1074
 I1
-sS'\xe0\xa4\xad\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa4\xa4'
+sS'Ituzaing\xc3\xb3 Corrientes'
 p1075
 I1
-sS'Jap\xc3\xb3n'
+sS'\xe0\xa4\xad\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa4\xa4'
 p1076
 I1
-sS'[...] Barsoom'
+sS'Jap\xc3\xb3n'
 p1077
 I1
-sS'Mexico.'
+sS'M\xc3\xa1laga (Espa\xc3\xb1a)'
 p1078
 I1
-sS'annen'
+sS'[...] Barsoom'
 p1079
 I1
-sS'Per\xc3\xba'
+sS'Mexico.'
 p1080
-I5
-sS'Observatorio.'
+I1
+sS'annen'
 p1081
 I1
-sS'twitter jail'
+sS'Per\xc3\xba'
 p1082
-I1
-sS'Colombia.'
+I5
+sS'Observatorio.'
 p1083
 I1
-sS'Tsuchimikado Natsume.'
+sS'twitter jail'
 p1084
-I3
-sVCampeche
+I1
+sS'Colombia.'
 p1085
 I1
-sS'Melbourne.'
+sS'Centro de Gobierno Planta Alta'
 p1086
 I1
-sS'CHILE'
+sS'Tsuchimikado Natsume.'
 p1087
 I3
-sS'au nord du sud'
+sVCampeche
 p1088
 I1
-sS'USA\xf0\x9f\x87\xba\xf0\x9f\x87\xb8'
+sS'Melbourne.'
 p1089
 I1
-sS'Tierra firme.'
+sS'CHILE'
 p1090
+I3
+sS'au nord du sud'
+p1091
 I1
-stRp1091
-sS'by_tag'
+sS'USA\xf0\x9f\x87\xba\xf0\x9f\x87\xb8'
 p1092
-(dp1093
+I1
+sS'Tierra firme.'
+p1093
+I1
+stRp1094
+sS'by_tag'
+p1095
+(dp1096
 S'feminazi'
-p1094
+p1097
 g3
-((dp1095
+((dp1098
 g5
 I2
 sg548
@@ -3296,7 +3305,7 @@ I1
 sg271
 I1
 sS'feminista'
-p1096
+p1099
 I1
 sg587
 I1
@@ -3306,7 +3315,7 @@ sg19
 I1
 sg21
 I1
-sg1084
+sg1087
 I3
 sg22
 I1
@@ -3324,22 +3333,22 @@ sg560
 I1
 sg845
 I1
-sg1022
+sg1023
 I1
 sg565
 I1
 sS'M\xc3\xa9xico D.F.'
-p1097
+p1100
 I1
 sg872
 I1
 sS'972 km from the himalayas'
-p1098
+p1101
 I1
 sg287
 I1
 sVUruguay
-p1099
+p1102
 I4
 sg849
 I1
@@ -3362,7 +3371,7 @@ I1
 sg203
 I1
 sS'Coahuila de Zaragoza'
-p1100
+p1103
 I1
 sg449
 I1
@@ -3379,7 +3388,7 @@ I1
 sg576
 I1
 sVFrance
-p1101
+p1104
 I8
 sg777
 I1
@@ -3416,12 +3425,12 @@ I1
 sg53
 I1
 sS'Tabasco'
-p1102
+p1105
 I1
 sg55
 I1
 sS'Colombia'
-p1103
+p1106
 I6
 sg594
 I1
@@ -3434,7 +3443,7 @@ I1
 sg878
 I1
 sS'Winterfell'
-p1104
+p1107
 I1
 sg599
 I1
@@ -3475,27 +3484,27 @@ I1
 sg86
 I1
 sVFL
-p1105
+p1108
 I1
 sg618
 I1
 sS'Ecuador'
-p1106
+p1109
 I2
 sg622
 I2
 sVUSA
-p1107
+p1110
 I14
 sg346
 I2
 sS'El Salvador'
-p1108
+p1111
 I2
 sg666
 I4
 sS'buenos aires'
-p1109
+p1112
 I1
 sg553
 I1
@@ -3512,10 +3521,10 @@ I2
 sg93
 I1
 sVBrasil
-p1110
+p1113
 I27
 sS'En mi casa o un sitio con Wifi'
-p1111
+p1114
 I1
 sg914
 I1
@@ -3532,10 +3541,10 @@ I1
 sg917
 I2
 sS'chile'
-p1112
+p1115
 I1
 sS'World'
-p1113
+p1116
 I1
 sg918
 I1
@@ -3548,10 +3557,10 @@ I1
 sg359
 I1
 sS'Canc\xc3\xban'
-p1114
+p1117
 I1
 sVBogotá
-p1115
+p1118
 I1
 sg105
 I1
@@ -3568,12 +3577,12 @@ I1
 sg602
 I1
 sS'M\xc3\xa9xico'
-p1116
+p1119
 I11
 sg639
 I2
 sS'Guanajuato'
-p1117
+p1120
 I1
 sg69
 I3
@@ -3614,7 +3623,7 @@ I1
 sg951
 I1
 sS'por el mundo'
-p1118
+p1121
 I2
 sg660
 I1
@@ -3623,19 +3632,19 @@ I1
 sg390
 I2
 sS'TX'
-p1119
+p1122
 I3
 sg767
 I1
 sVMexico
-p1120
+p1123
 I4
 sg954
 I1
 sg129
 I1
 sS'United Kingdom'
-p1121
+p1124
 I2
 sg395
 I1
@@ -3646,10 +3655,10 @@ I1
 sg133
 I1
 sS'Cartagena'
-p1122
+p1125
 I1
 sS'Mexico City'
-p1123
+p1126
 I1
 sg401
 I1
@@ -3668,14 +3677,14 @@ I1
 sg893
 I1
 sVArgentina
-p1124
+p1127
 I25
 sg331
 I1
 sg142
 I1
 sS'santiago'
-p1125
+p1128
 I1
 sg318
 I1
@@ -3688,7 +3697,7 @@ I1
 sg685
 I1
 sVEast of Eden
-p1126
+p1129
 I1
 sg972
 I2
@@ -3697,7 +3706,7 @@ I1
 sg974
 I2
 sS'Guatemala'
-p1127
+p1130
 I2
 sg906
 I1
@@ -3710,12 +3719,12 @@ I1
 sg414
 I1
 sVSpain
-p1128
+p1131
 I5
 sg153
 I2
 sS'Porto'
-p1129
+p1132
 I2
 sg697
 I1
@@ -3726,14 +3735,14 @@ I1
 sg125
 I3
 sS'Espa\xc3\xb1a'
-p1130
+p1133
 I15
 sg418
 I1
 sg160
 I3
 sS'England'
-p1131
+p1134
 I11
 sg422
 I1
@@ -3744,10 +3753,10 @@ I1
 sg425
 I1
 sS'Ciudad Aut\xc3\xb3noma de Buenos Aire'
-p1132
+p1135
 I1
 sVIndia
-p1133
+p1136
 I3
 sg428
 I2
@@ -3760,7 +3769,7 @@ I1
 sg799
 I1
 sVCiudad Autónoma de Buenos Aire
-p1134
+p1137
 I1
 sg482
 I1
@@ -3776,12 +3785,12 @@ sg991
 I1
 sg992
 I1
-sg1046
+sg1047
 I1
 sg435
 I2
 sVPeru
-p1135
+p1138
 I5
 sg716
 I1
@@ -3810,7 +3819,7 @@ I1
 sg191
 I1
 sS'M\xc3\xa9xico DF'
-p1136
+p1139
 I1
 sg452
 I1
@@ -3820,7 +3829,7 @@ sg726
 I2
 sg1009
 I1
-sg1024
+sg1025
 I1
 sg194
 I3
@@ -3839,7 +3848,7 @@ I1
 sg462
 I1
 sVCDMX
-p1137
+p1140
 I2
 sg464
 I1
@@ -3848,71 +3857,73 @@ I1
 sg1016
 I1
 sVMadrid
-p1138
+p1141
 I3
-sg1019
+sg1017
 I1
 sg1020
 I1
 sg1021
+I1
+sg1022
 I2
 sg739
 I1
 sS'Nuevo Le\xc3\xb3n'
-p1139
+p1142
 I1
 sg741
 I6
 sg572
 I2
-sg1023
+sg1024
 I1
 sg744
 I1
 sg209
 I1
 sVEspaña
-p1140
+p1143
 I1
-sg1026
+sg1027
 I3
 sg833
 I1
 sg212
 I1
-sg1028
+sg1029
 I1
 sS'Kazajst\xc3\xa1n'
-p1141
+p1144
 I1
 sg474
 I1
-sg1032
+sg1033
 I1
 sg173
 I1
 sg904
 I1
 sS'guayaquil'
-p1142
+p1145
 I1
-sg1038
+sg1039
 I2
 sg217
 I1
 sg218
 I3
 sS'NY'
-p1143
+p1146
 I1
-sg1041
+sg1042
 I1
 sg758
 I1
 sVChile
-p1144
+p1147
 I14
-sg1044
+sg1045
 I1
 sg485
 I1
@@ -3931,34 +3942,34 @@ I1
 sg230
 I1
 sVDistrito Federal
-p1145
+p1148
 I2
 sg233
 I1
-sg1050
-I1
-sg1052
-I1
-sg234
+sg1051
 I1
 sg1053
 I1
+sg234
+I1
 sg1054
+I1
+sg1055
 I1
 sg855
 I1
-sg1059
+sg1060
 I1
 sg237
 I1
-sg1060
+sg1061
 I1
 sg773
 I1
 sS'Lima'
-p1146
+p1149
 I1
-sg1063
+sg1064
 I1
 sg776
 I1
@@ -3996,35 +4007,35 @@ sg965
 I1
 sg249
 I1
-sg1075
+sg1076
 I1
 sg518
 I1
 sg251
 I1
-sg1076
+sg1077
 I1
 sg915
 I1
 sg521
 I1
 sS'minnesota | 16y/o'
-p1147
+p1150
 I1
 sg801
 I1
 sg253
 I1
-sg1078
+sg1080
 I1
 sg813
 I1
 sg525
 I1
 sS'Melbourne'
-p1148
+p1151
 I1
-sg1079
+sg1081
 I1
 sg256
 I1
@@ -4034,7 +4045,7 @@ sg258
 I1
 sg531
 I1
-sg1082
+sg1084
 I1
 sg226
 I1
@@ -4049,21 +4060,21 @@ I1
 sg263
 I1
 sS'Lisbon'
-p1149
+p1152
 I2
-sg1088
+sg1091
 I1
-sg1089
+sg1092
 I1
 sg816
 I1
 sg818
 I1
-stRp1150
+stRp1153
 sS'niunamenos'
-p1151
+p1154
 g3
-((dp1152
+((dp1155
 g6
 I1
 sg823
@@ -4073,14 +4084,14 @@ I1
 sg550
 I1
 sVLatinoamerica
-p1153
+p1156
 I1
 sg670
 I2
 sg309
 I1
 sS'Santiago'
-p1154
+p1157
 I1
 sg232
 I9
@@ -4117,24 +4128,24 @@ I1
 sg844
 I1
 sS'Toluca'
-p1155
+p1158
 I1
 sg27
 I1
 sg282
 I99
 sVJalisco
-p1156
+p1159
 I7
 sVCoah
-p1157
+p1160
 I1
 sg30
 I1
 sg633
 I1
 sS'M\xc3\xa9xico D.F.'
-p1158
+p1161
 I1
 sg285
 I1
@@ -4170,7 +4181,7 @@ sg861
 I1
 sg46
 I1
-sg1081
+sg1083
 I1
 sg579
 I1
@@ -4193,7 +4204,7 @@ I1
 sg467
 I1
 sS'Comunidad de Madrid'
-p1159
+p1162
 I3
 sg698
 I1
@@ -4204,7 +4215,7 @@ I1
 sg590
 I1
 sVTabasco
-p1160
+p1163
 I2
 sg319
 I2
@@ -4233,7 +4244,7 @@ I1
 sg601
 I1
 sS'Santa Fe'
-p1161
+p1164
 I2
 sg67
 I7
@@ -4270,7 +4281,7 @@ I1
 sg65
 I3
 sVMEXICO
-p1162
+p1165
 I1
 sg337
 I1
@@ -4281,7 +4292,7 @@ I1
 sg83
 I1
 sVSantiago de Chile
-p1163
+p1166
 I2
 sg536
 I1
@@ -4294,7 +4305,7 @@ I2
 sg323
 I1
 sVEcuador
-p1164
+p1167
 I18
 sg620
 I2
@@ -4327,7 +4338,7 @@ I1
 sg909
 I1
 sVBrasil
-p1165
+p1168
 I2
 sg730
 I1
@@ -4362,7 +4373,7 @@ I1
 sg108
 I1
 sS'M\xc3\xa9xico'
-p1166
+p1169
 I6
 sg364
 I1
@@ -4426,19 +4437,19 @@ sg657
 I1
 sg646
 I1
-sg1031
+sg1032
 I1
 sg947
 I1
 sg969
 I1
 sS'Barcelona'
-p1167
+p1170
 I3
 sS'en las marchas.'
-p1168
+p1171
 I1
-sg1069
+sg1070
 I1
 sg389
 I1
@@ -4459,10 +4470,10 @@ I1
 sg393
 I1
 sS'Santo Domingo'
-p1169
+p1172
 I1
 sS'United Kingdom'
-p1170
+p1173
 I1
 sg607
 I2
@@ -4493,10 +4504,10 @@ I1
 sg141
 I1
 sVARGENTINA LA RIOJACORDOBA
-p1171
+p1174
 I1
 sS'San Miguel de Tucum\xc3\xa1n'
-p1172
+p1175
 I1
 sg679
 I1
@@ -4533,14 +4544,14 @@ I1
 sg695
 I1
 sVCádiz
-p1173
+p1176
 I1
 sg654
 I1
 sg722
 I1
 sS'Espa\xc3\xb1a'
-p1174
+p1177
 I5
 sg159
 I1
@@ -4585,20 +4596,20 @@ I2
 sg475
 I1
 sVPeru
-p1175
+p1178
 I10
 sg180
 I1
 sg438
 I1
-sg1077
+sg1079
 I1
 sg748
 I1
 sg382
 I1
 sVallá
-p1176
+p1179
 I1
 sg441
 I1
@@ -4611,7 +4622,7 @@ I2
 sg419
 I1
 sS'Hurlingham'
-p1177
+p1180
 I1
 sg721
 I1
@@ -4620,7 +4631,7 @@ I1
 sg447
 I1
 sVMex
-p1178
+p1181
 I1
 sg1005
 I1
@@ -4633,7 +4644,7 @@ I2
 sg593
 I1
 sS'United States'
-p1179
+p1182
 I2
 sg456
 I2
@@ -4652,7 +4663,7 @@ I1
 sg729
 I1
 sS'Banfield'
-p1180
+p1183
 I1
 sg463
 I8
@@ -4664,7 +4675,7 @@ sg733
 I16
 sg201
 I1
-sg1017
+sg1018
 I1
 sg734
 I1
@@ -4673,7 +4684,7 @@ I1
 sg652
 I2
 sS'Japan'
-p1181
+p1184
 I2
 sg206
 I1
@@ -4684,26 +4695,26 @@ I1
 sg742
 I4
 sg966
-I159
+I160
 sg469
 I3
 sVEspaña
-p1182
+p1185
 I2
-sg1025
+sg1026
 I1
 sVCABA
-p1183
+p1186
 I2
 sg745
 I1
 sg747
 I1
-sg1030
+sg1031
 I1
 sg215
 I1
-sg1033
+sg1034
 I1
 sg717
 I2
@@ -4711,10 +4722,10 @@ sg749
 I1
 sg750
 I1
-sg1037
+sg1038
 I3
 sS'Estados Unidos'
-p1184
+p1187
 I1
 sg198
 I1
@@ -4726,19 +4737,19 @@ sg479
 I1
 sg480
 I1
-sg1040
-I1
+sg1041
+I2
 sg803
 I1
 sg481
 I1
 sVChile
-p1185
+p1188
 I22
 sg483
 I1
 sVRosario
-p1186
+p1189
 I3
 sg757
 I1
@@ -4754,29 +4765,29 @@ sg488
 I1
 sg225
 I1
-sg1043
+sg1044
 I1
 sg408
 I1
 sg228
 I2
-sg1048
+sg1049
 I1
 sVFrance
-p1187
+p1190
 I1
-sg1049
+sg1050
 I1
 sg10
 I1
 sg864
 I1
 sVUruguay
-p1188
+p1191
 I10
 sg484
 I1
-sg1056
+sg1057
 I1
 sg528
 I1
@@ -4788,17 +4799,17 @@ sg316
 I5
 sg143
 I1
-sg1062
+sg1063
 I1
 sg774
 I3
 sg775
 I1
-sg1064
+sg1065
 I1
 sg504
 I2
-sg1065
+sg1066
 I3
 sg780
 I1
@@ -4808,7 +4819,7 @@ sg241
 I1
 sg782
 I1
-sg1066
+sg1067
 I3
 sg360
 I1
@@ -4830,13 +4841,13 @@ sg513
 I1
 sg514
 I1
-sg1070
+sg1071
 I1
 sg793
 I2
 sg516
 I1
-sg1073
+sg1074
 I1
 sg795
 I1
@@ -4857,12 +4868,12 @@ I1
 sg523
 I2
 sVPuebla
-p1189
+p1192
 I5
 sg448
 I1
 sS'Per\xc3\xba'
-p1190
+p1193
 I1
 sg530
 I3
@@ -4879,12 +4890,12 @@ I1
 sg440
 I1
 sVHonduras
-p1191
+p1194
 I1
 sVChiapas
-p1192
+p1195
 I1
-sg1085
+sg1088
 I1
 sg810
 I1
@@ -4896,7 +4907,7 @@ sg340
 I1
 sg515
 I1
-sg1087
+sg1090
 I3
 sg524
 I1
@@ -4908,5 +4919,5 @@ sg547
 I2
 sg545
 I1
-stRp1193
+stRp1196
 ss.
